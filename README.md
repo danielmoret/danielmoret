@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Daniel Moret</h1>
 <h3 align="center">Soy un desarrollador Full-Stack en constante aprendizaje</h3>
 
+- 🧑 Desarrollador de software autodidacta, con gran capacidad de resolver problemas, persistente y aprendizaje rápido
+
 - 💬 Ask me about **javascript, react.js, python, flask, bootstrap, html y css**
 
 - 📫 How to reach me **dmoret17@gmail.com**
