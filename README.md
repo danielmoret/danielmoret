@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Daniel Moret</h1>
+<h1 align="center">Hola 👋, soy Daniel Moret</h1>
 <h3 align="center">Soy un desarrollador Full-Stack en constante aprendizaje</h3>
 
 - 💬 Ask me about **javascript, react.js, python, flask, bootstrap, html y css**
