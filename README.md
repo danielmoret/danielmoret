@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
     <h1 align="center">Hola 👋, soy Daniel Moret</h1>
     <h3 align="center">Soy un desarrollador Full-Stack en constante aprendizaje</h3>
 
