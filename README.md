@@ -5,7 +5,7 @@
 
 </div>
 
-- 🧑 Desarrollador de software autodidacta, con gran capacidad de resolver problemas, persistente y aprendizaje rápido
+- 🧑 Desarrollador de software autodidacta, con gran capacidad de resolver problemas, persistente y aprendizaje rápido. Buscando oportunidades donde pueda seguir aprendiendo y desarrollando mis habilidades.
 
 - 💬 Ask me about **javascript, react.js, python, flask, bootstrap, html y css**
 
